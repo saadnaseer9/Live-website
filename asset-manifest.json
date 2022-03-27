@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Live-website/static/css/main.3ba76f96.css",
+    "main.js": "/Live-website/static/js/main.164f125c.js",
+    "static/media/services3.webp": "/Live-website/static/media/services3.dd6899428a9ae3229dec.webp",
+    "static/media/services2.jpg": "/Live-website/static/media/services2.82b27abf4afe17122808.jpg",
+    "static/media/icon9.jpg": "/Live-website/static/media/icon9.da07e057559ac5ce88fa.jpg",
+    "static/media/services1.jpg": "/Live-website/static/media/services1.f77f56379f8265340487.jpg",
+    "service-worker.js": "/Live-website/service-worker.js",
+    "static/media/icon7.jpg": "/Live-website/static/media/icon7.7322b51aae47a6108add.jpg",
+    "static/media/icon8.jpg": "/Live-website/static/media/icon8.9e2ace3c1ac50992b7d0.jpg",
+    "static/media/Sport.svg": "/Live-website/static/media/Sport.ce2def1fea717b3b90ef6881a87f26ac.svg",
+    "static/media/revicons.eot": "/Live-website/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Live-website/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Live-website/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/Quadralogo.svg": "/Live-website/static/media/Quadralogo.0522893de9df8f1a7cefb86b72ff1e17.svg",
+    "static/media/Quadralogo2.svg": "/Live-website/static/media/Quadralogo2.855afb60e7609e5affb728d266c0e9df.svg",
+    "static/media/DocumentationPDF.svg": "/Live-website/static/media/DocumentationPDF.10330451ba46ecc40b3d03d82e23f91a.svg",
+    "static/media/DocumentationFolder.svg": "/Live-website/static/media/DocumentationFolder.522b17a2167d618dd5a4ac122312a308.svg",
+    "static/media/supportbg.svg": "/Live-website/static/media/supportbg.4afabb115fe597060943.svg",
+    "static/media/DocumentationPDFDownload.svg": "/Live-website/static/media/DocumentationPDFDownload.fac3c542e5e9d73638cde0263306a5bc.svg",
+    "index.html": "/Live-website/index.html",
+    "static/media/arrow.svg": "/Live-website/static/media/arrow.a3113d8825359aee7102281c5d4b08d4.svg",
+    "static/media/DocumentationBG.svg": "/Live-website/static/media/DocumentationBG.b985dd41c8e6028b508f.svg",
+    "main.3ba76f96.css.map": "/Live-website/static/css/main.3ba76f96.css.map",
+    "main.164f125c.js.map": "/Live-website/static/js/main.164f125c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ba76f96.css",
+    "static/js/main.164f125c.js"
+  ]
+}
