@@ -91,6 +91,7 @@ const ResponsiveAppBar = (props) => {
               display: { xs: "none", sm: "flex", md: "none" },
             }}
           >
+        {/* this is cricket */}
             <img src={Quadralogo}></img>
           </Typography>
           <Box
